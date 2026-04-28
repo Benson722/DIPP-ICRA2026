@@ -1,4 +1,4 @@
-This is the website repo about LACNS-ICRA2025
+This is the website repo about DIPP-ICRA2026
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
